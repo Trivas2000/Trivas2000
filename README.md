@@ -1,4 +1,4 @@
-[![MasterHead](https://img.lovepik.com/background/20211021/large/lovepik-blue-banner-background-image_500452484.jpg)](https://rishavchanda.io)
+[![MasterHead](https://img.lovepik.com/background/20211021/large/lovepik-blue-banner-background-image_500452484.jpg)]
 <h3 align="center">Computer science student from Chile</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/ce8b1e76965389.5c7945b0cffef.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trivas2000&label=Profile%20views&color=0e75b6&style=flat" alt="trivas2000" /> </p>
